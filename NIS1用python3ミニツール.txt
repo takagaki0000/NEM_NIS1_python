@@ -53,3 +53,5 @@ make-bingo-card.py  ビンゴカードを作ってみる
 
 get-mosaic-info.py  あるアドレスのMOSAIC情報をゲットする
 
+get-mosaic-info2.py  上記のqiita公開版　NISサーバーをランダムで選んでいます
+

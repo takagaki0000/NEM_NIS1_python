@@ -55,3 +55,12 @@ get-mosaic-info.py  あるアドレスのMOSAIC情報をゲットする
 
 get-mosaic-info2.py  上記のqiita公開版　NISサーバーをランダムで選んでいます
 
+
+get-info-namespace-arg01.py   あるアドレスが持ってるnamespaceの情報を示す　アドレスは引数で渡す
+
+hight-info-args.py　　　　　　　　あるightからそのブロック生成の情報を示す　　　hightは引数で渡す
+
+namespace_from_name.py  　　　　あるnamespaceの情報を示す　　namespaceの名前を引数で渡す
+
+
+

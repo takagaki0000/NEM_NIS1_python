@@ -56,3 +56,9 @@ make-bingo-card.py  ビンゴカードを作ってみる
 get-mosaic-info.py  あるアドレスのMOSAIC情報をゲットする
 
 get-mosaic-info2.py  上記のqiita公開版　NISサーバーをランダムで選んでいます
+
+getaddress05-ok.py   ユーザー名を引数に与えて実行するとアドレスとペアのデータが表示されます（要　nemlog03-ok.json）
+
+getname_from_address01.py  上と逆にアドレスから名前を引いてデータペアを表示してくれます（要　nemlog03-ok.json）
+
+nemlog03-ok.ison  上のプログラムで使うための名前とアドレスのペアデータ.jsonです
